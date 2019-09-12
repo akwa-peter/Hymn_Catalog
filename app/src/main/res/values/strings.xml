@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hymn Catalog</string>
+    <string name="action_bar_intro1">Hymn Catalog Helps you store your favorite Hymns</string>
+    <string name="action_bar_intro2">for reference purpose, you can click an item to view the hymn.</string>
+    <string name="dialog_action_delete">Delete</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="about_heading">Hymn Catalog is a mobile platform that can store hymns for reference purposes.
+    It was created to help the user save his favorite hymns and can retrieve them at any time.</string>
+    <string name="developer_details">Developer details:</string>
+</resources>
